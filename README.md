@@ -7,3 +7,4 @@ Thanks god for this opportunity
 *Crazy tricks
 *Platzi team
 *incluye ejemplos en Windows Linux y Mac
+*disponible para todas las edades
